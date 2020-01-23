@@ -15,6 +15,8 @@ As to why I chose to start with this project is because throughout my iOS applic
 To know more about the solution in this project, refer to https://developer.apple.com/documentation/uikit/uicollectionview/customizing_collection_view_layouts.
 In the above link you can find a project explaining how to program complex UICollectionView layouts.
 
+This project is not on cocoapods as of now.
+
 This is a hobby project to keep on updating my iOS programming skills, as now I am back in education pursuing my Masters. Thus, don't expect regular updates or answers.
 
 Any suggestions on any future project are welcome.
